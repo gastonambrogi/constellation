@@ -1,5 +1,12 @@
 #Constellation.js
 
+    We had the sky up there, and we used to lay on our backs and look up at them, and discuss whether they was made or just happened. 
+    — Mark Twain
+
+    The contemplation of celestial things will make a man both speak and think more sublimely and magnificently when he descends to human affairs. 
+    — Cicero
+
+
 Constellation is a simple JavaScript plugin that can draw beautiful HTML5 Canvas backgrounds, resembling star constellations. [A demo is available here](https://ngr900.github.io/constellation/).
 
 #Usage
